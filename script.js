@@ -23,3 +23,4 @@ function calculate() {
 function updateDisplay() {
     document.getElementById('display').innerText = displayValue;
 }
+
